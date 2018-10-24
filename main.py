@@ -1,3 +1,6 @@
 #!usr/bin/python3
 
-print("mesho browser")
+def main(msg):
+    print(msg)
+
+    main("mesho browser")
