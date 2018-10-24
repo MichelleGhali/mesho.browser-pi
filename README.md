@@ -1,2 +1,2 @@
 # mesho.browser
-# this is an example project to demonstrate the use of git ``on ubuntu.
+ this is an example project to demonstrate the use of git ``on ubuntu.
