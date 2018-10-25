@@ -1,9 +1,8 @@
 #!usr/bin/python3
 
-def main(msg):
-<<<<<<< HEAD
-    //_adding a diifrent com
-    // print a messager
+def(msg):
+    //mesho-browser
+    //mi first project
     print(msg)
 
-    main("mesho browser")
+main(mesho-browser)
